@@ -52,7 +52,7 @@
 .horario{
     display: flex;
     margin: auto;
-    gap: 10rem;
+    gap: 8rem;
 }
 
 .horario div{
